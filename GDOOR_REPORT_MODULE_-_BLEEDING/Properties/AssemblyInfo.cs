@@ -4,11 +4,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associadas a um assembly.
-[assembly: AssemblyTitle("GDOOR_MODULO_DE_RELATORIO_-_ SANGRIA")]
+[assembly: AssemblyTitle("GDOOR_REPORT_MODULE_-_BLEEDING")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("GDOOR_MODULO_DE_RELATORIO_-_ SANGRIA")]
+[assembly: AssemblyProduct("GDOOR_REPORT_MODULE_-_BLEEDING")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

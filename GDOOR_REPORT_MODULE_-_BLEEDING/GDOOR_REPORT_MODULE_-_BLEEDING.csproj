@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{412EAC53-D1B3-4079-AFB2-56ECDC4F134A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>GDOOR_MODULO_DE_RELATORIO____SANGRIA</RootNamespace>
-    <AssemblyName>GDOOR_MODULO_DE_RELATORIO_-_ SANGRIA</AssemblyName>
+    <RootNamespace>GDOOR_REPORT_MODULE____BLEEDING</RootNamespace>
+    <AssemblyName>GDOOR_REPORT_MODULE_-_BLEEDING</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
