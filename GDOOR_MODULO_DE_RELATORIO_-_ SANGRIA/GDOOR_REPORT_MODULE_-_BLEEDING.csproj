@@ -61,16 +61,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmPrincipal_Relatorio_de_Sangrias.cs">
+    <Compile Include="frmMain_Bleeding_Report.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmPrincipal_Relatorio_de_Sangrias.Designer.cs">
-      <DependentUpon>frmPrincipal_Relatorio_de_Sangrias.cs</DependentUpon>
+    <Compile Include="frmMain_Bleeding_Report.Designer.cs">
+      <DependentUpon>frmMain_Bleeding_Report.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmPrincipal_Relatorio_de_Sangrias.resx">
-      <DependentUpon>frmPrincipal_Relatorio_de_Sangrias.cs</DependentUpon>
+    <EmbeddedResource Include="frmMain_Bleeding_Report.resx">
+      <DependentUpon>frmMain_Bleeding_Report.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

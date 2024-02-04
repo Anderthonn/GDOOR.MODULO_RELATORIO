@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace GDOOR_MODULO_DE_RELATORIO____SANGRIA
@@ -16,7 +13,7 @@ namespace GDOOR_MODULO_DE_RELATORIO____SANGRIA
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmPrincipal_Relatorio_de_Sangrias());
+            Application.Run(new frmMain_Bleeding_Report());
         }
     }
 }
